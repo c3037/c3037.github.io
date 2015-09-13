@@ -11,5 +11,5 @@ domain_name: 'http://c30307.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://c30307.github.io'
+author:         'Your New Jekyll Site'
